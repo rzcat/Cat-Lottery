@@ -3,9 +3,9 @@ object Form1: TForm1
   Top = 0
   BorderIcons = [biSystemMenu, biMinimize]
   BorderStyle = bsSingle
-  Caption = 'Cat Lottery v1.1 build 2017.03.14 10:06'
-  ClientHeight = 739
-  ClientWidth = 1360
+  Caption = #25277#22870#27979#35797
+  ClientHeight = 518
+  ClientWidth = 1010
   Color = clBtnFace
   Font.Charset = DEFAULT_CHARSET
   Font.Color = clWindowText
@@ -14,190 +14,189 @@ object Form1: TForm1
   Font.Style = []
   OldCreateOrder = False
   Position = poDesktopCenter
-  OnCreate = FormCreate
   PixelsPerInch = 96
   TextHeight = 17
   object GroupBox2: TGroupBox
     Left = 151
     Top = 0
-    Width = 1201
-    Height = 568
+    Width = 854
+    Height = 346
     Caption = 'Result'
     TabOrder = 0
     object Edit1: TEdit
       Left = 4
       Top = 16
-      Width = 594
-      Height = 104
-      Alignment = taCenter
+      Width = 420
+      Height = 60
       Font.Charset = DEFAULT_CHARSET
       Font.Color = clWindowText
-      Font.Height = -84
-      Font.Name = 'Georgia'
+      Font.Height = -43
+      Font.Name = 'Tahoma'
       Font.Style = []
       ParentFont = False
       ReadOnly = True
       TabOrder = 0
+      Text = '123456789012345678'
     end
     object Edit2: TEdit
       Left = 4
-      Top = 126
-      Width = 594
-      Height = 104
-      Alignment = taCenter
+      Top = 82
+      Width = 420
+      Height = 60
       Font.Charset = DEFAULT_CHARSET
       Font.Color = clWindowText
-      Font.Height = -84
-      Font.Name = 'Georgia'
+      Font.Height = -43
+      Font.Name = 'Tahoma'
       Font.Style = []
       ParentFont = False
       ReadOnly = True
       TabOrder = 1
+      Text = '123456789012345678'
     end
     object Edit3: TEdit
       Left = 4
-      Top = 237
-      Width = 594
-      Height = 104
-      Alignment = taCenter
+      Top = 148
+      Width = 420
+      Height = 60
       Font.Charset = DEFAULT_CHARSET
       Font.Color = clWindowText
-      Font.Height = -84
-      Font.Name = 'Georgia'
+      Font.Height = -43
+      Font.Name = 'Tahoma'
       Font.Style = []
       ParentFont = False
       ReadOnly = True
       TabOrder = 2
+      Text = '123456789012345678'
     end
     object Edit4: TEdit
       Left = 4
-      Top = 347
-      Width = 594
-      Height = 104
-      Alignment = taCenter
+      Top = 214
+      Width = 420
+      Height = 60
       Font.Charset = DEFAULT_CHARSET
       Font.Color = clWindowText
-      Font.Height = -84
-      Font.Name = 'Georgia'
+      Font.Height = -43
+      Font.Name = 'Tahoma'
       Font.Style = []
       ParentFont = False
       ReadOnly = True
       TabOrder = 3
+      Text = '123456789012345678'
     end
     object Edit5: TEdit
       Left = 4
-      Top = 458
-      Width = 594
-      Height = 104
-      Alignment = taCenter
+      Top = 280
+      Width = 420
+      Height = 60
       Font.Charset = DEFAULT_CHARSET
       Font.Color = clWindowText
-      Font.Height = -84
-      Font.Name = 'Georgia'
+      Font.Height = -43
+      Font.Name = 'Tahoma'
       Font.Style = []
       ParentFont = False
       ReadOnly = True
       TabOrder = 4
+      Text = '123456789012345678'
     end
     object Edit6: TEdit
-      Left = 602
+      Left = 429
       Top = 16
-      Width = 594
-      Height = 104
-      Alignment = taCenter
+      Width = 420
+      Height = 60
       Font.Charset = DEFAULT_CHARSET
       Font.Color = clWindowText
-      Font.Height = -84
-      Font.Name = 'Georgia'
+      Font.Height = -43
+      Font.Name = 'Tahoma'
       Font.Style = []
       ParentFont = False
       ReadOnly = True
       TabOrder = 5
+      Text = '123456789012345678'
     end
     object Edit7: TEdit
-      Left = 602
-      Top = 127
-      Width = 594
-      Height = 104
-      Alignment = taCenter
+      Left = 429
+      Top = 82
+      Width = 420
+      Height = 60
       Font.Charset = DEFAULT_CHARSET
       Font.Color = clWindowText
-      Font.Height = -84
-      Font.Name = 'Georgia'
+      Font.Height = -43
+      Font.Name = 'Tahoma'
       Font.Style = []
       ParentFont = False
       ReadOnly = True
       TabOrder = 6
+      Text = '123456789012345678'
     end
     object Edit8: TEdit
-      Left = 602
-      Top = 237
-      Width = 594
-      Height = 104
-      Alignment = taCenter
+      Left = 429
+      Top = 148
+      Width = 420
+      Height = 60
       Font.Charset = DEFAULT_CHARSET
       Font.Color = clWindowText
-      Font.Height = -84
-      Font.Name = 'Georgia'
+      Font.Height = -43
+      Font.Name = 'Tahoma'
       Font.Style = []
       ParentFont = False
       ReadOnly = True
       TabOrder = 7
+      Text = '123456789012345678'
     end
     object Edit9: TEdit
-      Left = 602
-      Top = 347
-      Width = 594
-      Height = 104
-      Alignment = taCenter
+      Left = 429
+      Top = 214
+      Width = 420
+      Height = 60
       Font.Charset = DEFAULT_CHARSET
       Font.Color = clWindowText
-      Font.Height = -84
-      Font.Name = 'Georgia'
+      Font.Height = -43
+      Font.Name = 'Tahoma'
       Font.Style = []
       ParentFont = False
       ReadOnly = True
       TabOrder = 8
+      Text = '123456789012345678'
     end
     object Edit10: TEdit
-      Left = 602
-      Top = 457
-      Width = 594
-      Height = 104
-      Alignment = taCenter
+      Left = 429
+      Top = 280
+      Width = 420
+      Height = 60
       Font.Charset = DEFAULT_CHARSET
       Font.Color = clWindowText
-      Font.Height = -84
-      Font.Name = 'Georgia'
+      Font.Height = -43
+      Font.Name = 'Tahoma'
       Font.Style = []
       ParentFont = False
       ReadOnly = True
       TabOrder = 9
+      Text = '123456789012345678'
     end
   end
   object GroupBox3: TGroupBox
-    Left = 3
-    Top = 567
-    Width = 719
+    Left = 4
+    Top = 346
+    Width = 371
     Height = 164
-    Caption = #35760#24405
+    Caption = 'Logger'
+    Enabled = False
     TabOrder = 1
     object Memo2: TMemo
       Left = 6
       Top = 16
-      Width = 707
+      Width = 359
       Height = 142
-      ReadOnly = True
       ScrollBars = ssVertical
       TabOrder = 0
     end
   end
   object GroupBox4: TGroupBox
-    Left = 728
-    Top = 567
+    Left = 381
+    Top = 346
     Width = 382
     Height = 164
-    Caption = #25511#21046#21488
+    Caption = 'Console'
     TabOrder = 2
     object Button3: TButton
       Left = 6
@@ -237,7 +236,6 @@ object Form1: TForm1
       Width = 170
       Height = 43
       Style = csDropDownList
-      Enabled = False
       Font.Charset = DEFAULT_CHARSET
       Font.Color = clWindowText
       Font.Height = -27
@@ -263,8 +261,8 @@ object Form1: TForm1
     end
   end
   object GroupBox5: TGroupBox
-    Left = 1116
-    Top = 567
+    Left = 769
+    Top = 346
     Width = 236
     Height = 164
     Caption = 'Miscellaneous'
@@ -300,7 +298,6 @@ object Form1: TForm1
       Top = 15
       Width = 134
       Height = 43
-      Alignment = taCenter
       Font.Charset = DEFAULT_CHARSET
       Font.Color = clWindowText
       Font.Height = -27
@@ -309,6 +306,7 @@ object Form1: TForm1
       ParentFont = False
       ReadOnly = True
       TabOrder = 0
+      Text = '999/1000'
     end
     object CheckBox1: TCheckBox
       Left = 15
@@ -326,7 +324,6 @@ object Form1: TForm1
       Width = 24
       Height = 42
       Caption = '?'
-      Enabled = False
       Font.Charset = DEFAULT_CHARSET
       Font.Color = clWindowText
       Font.Height = -27
@@ -334,7 +331,6 @@ object Form1: TForm1
       Font.Style = []
       ParentFont = False
       TabOrder = 2
-      OnClick = Button5Click
     end
     object Button6: TButton
       Left = 150
@@ -352,13 +348,12 @@ object Form1: TForm1
       OnClick = Button6Click
     end
     object Button8: TButton
-      Left = 142
+      Left = 150
       Top = 64
-      Width = 43
+      Width = 83
       Height = 25
-      Caption = #25171#24320
+      Caption = 'Open Dir'
       TabOrder = 4
-      OnClick = Button8Click
     end
     object RadioGroup1: TRadioGroup
       Left = 8
@@ -372,32 +367,23 @@ object Form1: TForm1
         #25277#20013#36824#33021#32487#32493#25277)
       TabOrder = 5
     end
-    object Button7: TButton
-      Left = 190
-      Top = 64
-      Width = 43
-      Height = 25
-      Caption = #28165#31354
-      TabOrder = 6
-      OnClick = Button7Click
-    end
   end
   object Button2: TButton
     Left = 77
-    Top = 536
+    Top = 320
     Width = 72
     Height = 25
-    Caption = #35299#38145
+    Caption = 'Unlock'
     Enabled = False
     TabOrder = 4
     OnClick = Button2Click
   end
   object Button1: TButton
     Left = 3
-    Top = 536
+    Top = 320
     Width = 72
     Height = 25
-    Caption = #19978#38145
+    Caption = 'Lock'
     TabOrder = 5
     OnClick = Button1Click
   end
@@ -405,46 +391,78 @@ object Form1: TForm1
     Left = 4
     Top = 4
     Width = 146
-    Height = 526
+    Height = 314
     ActivePage = TabSheet1
+    Enabled = False
     TabOrder = 6
     object TabSheet1: TTabSheet
-      Caption = #36755#20837#21517#21333
-      ExplicitHeight = 282
+      Caption = 'Original'
       object Memo1: TMemo
         Left = 0
         Top = 0
         Width = 137
-        Height = 491
+        Height = 281
         Font.Charset = DEFAULT_CHARSET
         Font.Color = clWindowText
         Font.Height = -11
         Font.Name = 'Tahoma'
         Font.Style = []
+        Lines.Strings = (
+          HarryPotter
+		  MrBean
+		  GangMan1
+		  GangMan2
+		  GangMan3
+		  GangMan4
+		  GangMan5
+		  GangMan6
+		  GangMan7
+		  GangMan8
+		  GangMan9
+		  GangMan10
+		  GangMan11
+		  GangMan12
+		  GangMan13
+		  GangMan14
+		  GangMan15
+		  GangMan16
+		  GangMan17
+		  GangMan18
+		  GangMan19
+		  GangMan20)
         ParentFont = False
         ScrollBars = ssBoth
         TabOrder = 0
+        OnChange = Memo1Change
       end
     end
     object TabSheet2: TTabSheet
-      Caption = #21097#20313#26410#25277
+      Caption = 'Remaining'
       ImageIndex = 1
-      ExplicitHeight = 282
       object Memo3: TMemo
         Left = 0
         Top = 0
         Width = 137
-        Height = 491
+        Height = 281
         Font.Charset = DEFAULT_CHARSET
         Font.Color = clWindowText
         Font.Height = -11
         Font.Name = 'Tahoma'
         Font.Style = []
+        Lines.Strings = (
+          '123456789012345678'
+          '123456789012345678'
+          '123456789012345678'
+          '123456789012345678'
+          '123456789012345678'
+          '123456789012345678'
+          '123456789012345678'
+          '123456789012345678'
+          '123456789012345678'
+          '123456789012345678')
         ParentFont = False
-        ReadOnly = True
         ScrollBars = ssBoth
         TabOrder = 0
-        OnChange = Memo3Change
       end
     end
   end
